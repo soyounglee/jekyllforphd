@@ -2,14 +2,6 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am a third-year Ph.D student interested in Syntax, Computational Linguistics and Chinese dialects. Currently, I am working on topic structure in Mandarin Chinese and Wh-scope in Mandarin and Korean. Additionally, I am studying scrambling and its relationship with other freedom of word-order phenomena in world languages.
