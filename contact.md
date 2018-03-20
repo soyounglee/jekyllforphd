@@ -1,2 +1,3 @@
-Email: lei[dot]liu[dot]1[at]stonybrook.edu
-
+- Email: Your email here
+- Office: maybe your office as well
+- Instagram: I mean, why not :)

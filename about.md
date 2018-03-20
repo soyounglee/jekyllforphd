@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-![lei](https://res.cloudinary.com/czclmhb/image/upload/v1521513592/lei.jpg)
+![zhangsan](https://res.cloudinary.com/czclmhb/image/upload/v1521523420/bassel-pixel-32bit-300px.png)
 
-I am a third-year Ph.D student interested in Syntax, Computational Linguistics and Chinese dialects. Currently, I am working on topic structure in Mandarin Chinese and Wh-scope in Mandarin and Korean. Additionally, I am studying scrambling and its relationship with other freedom of word-order phenomena in world languages.
+This is Zhangsan. I am a common Chinese name used in numerous linguistic examples. My one and only interest is to find my Lisi.
