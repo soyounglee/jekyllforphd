@@ -1,4 +1,4 @@
-Presentations
+#### Presentations
 
 October 2017 Hongchen Wu, Richard Larson, Yaobin Liu, Lei Liu, and Gary Mar. Rethinking quantifier scope in Mandarin. Poster presented at NELS-48 (the 48th Annual Meeting of the North East Linguistic Society), Reykjavík, Iceland.
 
@@ -15,4 +15,3 @@ December 2016 Capturing scope ambiguity with Tier-Local Syntax presented at Comp
  
 
 Auguest  2016  Nominal Behavior of Verb Reduplication and Its Implications on Double Nominative Constructions presented at the KALS & KACL Joint International Conference 2016, Busan, Korea.
-
