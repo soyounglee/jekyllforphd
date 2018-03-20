@@ -1,4 +1,8 @@
-> March, 2018: Minor changes are made
+> March, 2018: The following changes are made for Skillz hour demonstration
+> - change config file for personalization
+> - change index.html to show _about_ and _news_ on home page
+> - change default.html to include new pages in navigation bar
+> - add new page
 
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
