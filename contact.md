@@ -1,3 +1,3 @@
-- Email: Your email here
-- Office: maybe your office as well
+- Email: soyoung.lee@stonybrook.edu
+- Office: SBS N 234
 - Instagram: I mean, why not :)
